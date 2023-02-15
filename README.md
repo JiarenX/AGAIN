@@ -17,14 +17,9 @@ The codes can be run with the below packages:
 * scipy == 1.5.4
 
 ## Examples to run the codes
-* Multi-label classification with source training rate as 10% (Table 3)
+* Performance Study (CiteSeer)
 ```
-python train_WD.py # set signal = [1], target_train_rate = [0], FLAGS.gnn=gcn or FLAGS.gnn=igcn
-```
-
-* Multi-label classification with source training rate as 10% and target train set as 5% (Table 4)
-```
-python train_WD.py # set signal = [2], target_train_rate = [0.05], FLAGS.gnn=gcn or FLAGS.gnn=igcn
+python main_AGAIN.py --label_per_class 20 --niters_gan_d 1 --lr_gan_d 0.001 --weight_decay 5e-2
 ```
 
 ## Citation 
