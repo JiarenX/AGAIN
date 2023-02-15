@@ -18,9 +18,9 @@ The codes can be run with the below packages:
 
 
 ## Datasets
-Hyperlink: https://pan.baidu.com/s/1E9O9DvT2BSalTtFs1uGT9Q
+Hyperlink: https://pan.baidu.com/s/1u198vHmQyI4DZI9tJ2jwUA
 
-Password: fvuq
+Password: 7p3c
 
 ## Examples to run the codes
 * Performance Study (CiteSeer)
