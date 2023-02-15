@@ -16,6 +16,11 @@ The codes can be run with the below packages:
 * networkx == 1.9.1
 * scipy == 1.5.4
 
+
+## Datasets
+Hyperlink: https://pan.baidu.com/s/1E9O9DvT2BSalTtFs1uGT9Q
+Password: fvuq
+
 ## Examples to run the codes
 * Performance Study (CiteSeer)
 ```
