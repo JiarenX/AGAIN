@@ -1,8 +1,8 @@
-# Graph transfer learning via adversarial domain adaptation with graph convolution
+# Adversarially Regularized Graph Attention Networks for Inductive Learning on Partially Labeled Graphs
 
 This is our implementation for the following paper:
 
->[Q. Dai, X.-M. Wu, J. Xiao, X. Shen, and D. Wang, “Graph transfer learning via adversarial domain adaptation with graph convolution,” IEEE Transactions on Knowledge and Data Engineering, pp. 1–1, 2022](https://ieeexplore.ieee.org/abstract/document/9684927).
+>[Xiao, Jiaren, Quanyu Dai, Xiaochen Xie, James Lam, and Ka-Wai Kwok. "Adversarially regularized graph attention networks for inductive learning on partially labeled graphs." arXiv preprint arXiv:2106.03393 (2021)](https://arxiv.org/abs/2106.03393).
 
 
 ## Abstract
