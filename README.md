@@ -2,7 +2,7 @@
 
 This is our implementation for the following paper:
 
->[Xiao, Jiaren, Quanyu Dai, Xiaochen Xie, James Lam, and Ka-Wai Kwok. "Adversarially regularized graph attention networks for inductive learning on partially labeled graphs." arXiv preprint arXiv:2106.03393 (2021)](https://arxiv.org/abs/2106.03393).
+>[Jiaren Xiao, Quanyu Dai, Xiaochen Xie, James Lam, and Ka-Wai Kwok. "Adversarially regularized graph attention networks for inductive learning on partially labeled graphs." arXiv preprint arXiv:2106.03393 (2021)](https://arxiv.org/abs/2106.03393).
 
 
 ## Abstract
