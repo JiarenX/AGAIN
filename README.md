@@ -25,10 +25,10 @@ python main_AGAIN.py --label_per_class 20 --niters_gan_d 1 --lr_gan_d 0.001 --we
 ## Citation 
 If you would like to use our code, please cite:
 ```
-@article{dai_graph_2022,
-	title = {Graph transfer learning via adversarial domain adaptation with graph convolution},
-	author = {Dai, Quanyu and Wu, Xiao-Ming and Xiao, Jiaren and Shen, Xiao and Wang, Dan},
-	year = {2022},
-	pages = {1--1},
+@article{xiao_adversarially_2021,
+	title = {Adversarially regularized graph attention networks for inductive learning on partially labeled graphs},
+	journal = {arXiv:2106.03393 [cs]},
+	author = {Xiao, Jiaren and Dai, Quanyu and Xie, Xiaochen and Lam, James and Kwok, Ka-Wai},
+	year = {2021},
 }
 ```
