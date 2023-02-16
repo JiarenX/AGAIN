@@ -13,7 +13,7 @@ The codes can be run with the below packages:
 * networkx == 1.9.1
 * scipy == 1.5.4
 
-# Examples
+# Example
 * Performance Study (CiteSeer)
 ```
 python train.py
