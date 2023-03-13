@@ -2,7 +2,7 @@
 
 This is our implementation for the following paper:
 
->[Jiaren Xiao, Quanyu Dai, Xiaochen Xie, James Lam, and Ka-Wai Kwok. "Adversarially regularized graph attention networks for inductive learning on partially labeled graphs." arXiv preprint arXiv:2106.03393 (2021)](https://arxiv.org/abs/2106.03393).
+>[Jiaren Xiao, Quanyu Dai, Xiaochen Xie, James Lam, and Ka-Wai Kwok. "Adversarially regularized graph attention networks for inductive learning on partially labeled graphs." Knowledge-Based Systems (2023)](https://www.sciencedirect.com/science/article/pii/S095070512300206X).
 
 
 ## Abstract
@@ -31,10 +31,11 @@ python main_AGAIN.py --label_per_class 20 --niters_gan_d 1 --lr_gan_d 0.001 --we
 ## Citation 
 If you would like to use our code, please cite:
 ```
-@article{xiao_adversarially_2021,
-	title = {Adversarially regularized graph attention networks for inductive learning on partially labeled graphs},
-	journal = {arXiv:2106.03393 [cs]},
-	author = {Xiao, Jiaren and Dai, Quanyu and Xie, Xiaochen and Lam, James and Kwok, Ka-Wai},
-	year = {2021},
+@article{XIAO2023110456,
+title = {Adversarially regularized graph attention networks for inductive learning on partially labeled graphs},
+journal = {Knowledge-Based Systems},
+year = {2023},
+doi = {https://doi.org/10.1016/j.knosys.2023.110456},
+author = {Xiao, Jiaren and Dai, Quanyu and Xie, Xiaochen and Lam, James and Kwok, Ka-Wai},
 }
 ```
